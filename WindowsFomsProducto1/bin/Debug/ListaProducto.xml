@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Lista_x0020_de_x0020_producto>
+    <Codigo>7</Codigo>
+    <Descripcion>6hhsdvsbjnvd</Descripcion>
+    <Stock>0</Stock>
+  </Lista_x0020_de_x0020_producto>
+  <Lista_x0020_de_x0020_producto>
+    <Codigo>8</Codigo>
+    <Descripcion>6hhsdvsbjnvd</Descripcion>
+    <Stock>1</Stock>
+  </Lista_x0020_de_x0020_producto>
+  <Lista_x0020_de_x0020_producto>
+    <Codigo>9</Codigo>
+    <Descripcion>Modulos j7</Descripcion>
+    <Stock>8</Stock>
+  </Lista_x0020_de_x0020_producto>
+</DocumentElement>

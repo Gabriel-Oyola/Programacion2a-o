@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.FormsProductos.resources
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\bin\Debug\WindowsFomsProducto1.exe.config
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\bin\Debug\WindowsFomsProducto1.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\bin\Debug\WindowsFomsProducto1.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\bin\Debug\Entidades.dll
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.csproj.CopyComplete
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\WindowsFomsProducto1\obj\Debug\WindowsFomsProducto1.pdb
