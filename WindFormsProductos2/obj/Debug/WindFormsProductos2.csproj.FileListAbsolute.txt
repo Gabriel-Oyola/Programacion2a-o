@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\bin\Debug\WindFormsProductos2.exe.config
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\bin\Debug\WindFormsProductos2.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\bin\Debug\WindFormsProductos2.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\bin\Debug\EntidadesProducto.dll
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\bin\Debug\EntidadesProducto.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.FormProductos.resources
+C:\Users\Gabriel\Documents\Cursos de programacion\WindFormsProductos2\obj\Debug\WindFormsProductos2.csproj.CopyComplete
